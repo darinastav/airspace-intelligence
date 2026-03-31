@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "sample_trajectories",
+"features": [
+{ "type": "Feature", "properties": { "flight_id": "UA123", "lat": 50.0, "lon": 30.0, "alt_ft": 35000, "time_min": 0, "od_pair": "KBP-WAW", "gc_nm": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 30.0, 50.0 ] } },
+{ "type": "Feature", "properties": { "flight_id": "UA123", "lat": 50.5, "lon": 30.5, "alt_ft": 35500, "time_min": 15, "od_pair": "KBP-WAW", "gc_nm": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 30.5, 50.5 ] } },
+{ "type": "Feature", "properties": { "flight_id": "PL456", "lat": 49.8, "lon": 29.8, "alt_ft": 34000, "time_min": 0, "od_pair": "LWO-KRK", "gc_nm": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 29.8, 49.8 ] } },
+{ "type": "Feature", "properties": { "flight_id": "PL456", "lat": 50.2, "lon": 30.2, "alt_ft": 34500, "time_min": 12, "od_pair": "LWO-KRK", "gc_nm": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 30.2, 50.2 ] } }
+]
+}
